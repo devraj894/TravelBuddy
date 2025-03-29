@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li > .active{
+    text-decoration: underline;
+    
+}
+
+/* Default light mode styles */
+body {
+  background-color: #ffffff; /* Light mode background */
+  color: #000000; /* Text color */
+  transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+}
+
+/* Dark mode styles */
+.dark body {
+  background-color: #111827; /* Dark mode background */
+  color: #ffffff; /* Text color */
+}
