@@ -5,7 +5,6 @@ import Swal from 'sweetalert2';
 import useAuth from '../../../hooks/useAuth';
 
 const imageHostingApiKey = import.meta.env.VITE_Image_Hosting_Api_Key;
-console.log("Testing my generated API : ", imageHostingApiKey)
 const imageHostingApi = `https://api.imgbb.com/1/upload?key=${imageHostingApiKey}`;
 
 const AddStory = () => {
