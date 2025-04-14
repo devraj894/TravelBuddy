@@ -37,6 +37,17 @@ A tourism management website which allow users to view various travel packages, 
 * "sort-by": "^1.2.0",
 * "sweetalert2": "^11.15.10"
 
+## Video & Report
+### 1️⃣ Video
+```
+https://drive.google.com/file/d/1_19tt2OU9KylWzki0Q8lD3vs8ZpxwA3z/view?usp=sharing
+```
+
+### 2️⃣ Report
+```
+https://drive.google.com/file/d/1UpmF-SLhkwmP_huKUgKJAElsM7nnMo3w/view?usp=sharing
+```
+
 ## Installation & Setup
 ### 1️⃣ Clone the Repository
 ```

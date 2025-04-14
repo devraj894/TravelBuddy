@@ -1,0 +1,15 @@
+[
+    {
+      "_id": "1",
+      "packageId": "pkg1",
+      "packageName": "Explore Kashmir",
+      "touristName": "John Doe",
+      "touristEmail": "john@example.com",
+      "touristPhoto": "https://i.ibb.co/s6Z3SKb/user.png",
+      "price": 8999,
+      "tourDate": "2025-05-20",
+      "guideName": "Ravi",
+      "status": "pending"
+    }
+  ]
+  

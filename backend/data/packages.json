@@ -1,0 +1,24 @@
+[
+    {
+      "_id": "pkg1",
+      "title": "Explore Kashmir",
+      "price": 8999,
+      "description": "A scenic trip through the valleys of Kashmir.",
+      "image": "https://i.ibb.co/3T1DsJ3/kashmir.jpg"
+    },
+    {
+      "_id": "pkg2",
+      "title": "Discover Goa",
+      "price": 4999,
+      "description": "Relax at the best beaches and enjoy the nightlife of Goa.",
+      "image": "https://i.ibb.co/GcG6y7d/goa.jpg"
+    },
+    {
+      "_id": "pkg3",
+      "title": "Trip to Manali",
+      "price": 7999,
+      "description": "Adventure and snow await in the beautiful hills of Manali.",
+      "image": "https://i.ibb.co/q5xhqqy/manali.jpg"
+    }
+  ]
+  
