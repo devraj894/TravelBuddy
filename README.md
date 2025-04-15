@@ -55,7 +55,13 @@ git clone https://github.com/Jollypru/TravelCove.git
 cd TravelCove
 ```
 
-### 2️⃣ Install Dependencies
+### 2️⃣ Install Dependencies for backend
+```
+npm install
+npm start
+```
+
+### 2️⃣ Install Dependencies for frontend
 ```
 npm install
 npm run dev
